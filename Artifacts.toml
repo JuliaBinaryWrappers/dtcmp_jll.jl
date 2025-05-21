@@ -7,7 +7,7 @@ os = "macos"
 
     [[dtcmp.download]]
     sha256 = "13ccc6a5a9512497c17dcd49b1f21dd8d5180d9c7b7aa34f6c321e0be74f157e"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "4fa789075b0c09c1edb95ea8fc4cfe24fbe3e812"
@@ -17,7 +17,7 @@ os = "macos"
 
     [[dtcmp.download]]
     sha256 = "ed2e12eb35a77f4ad5fa3636a7487f36ed1ff73e4d71f303fe29fbc0d49836e5"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "0fac5bd676db40f33964301a6c062360f79627d7"
@@ -27,7 +27,7 @@ os = "macos"
 
     [[dtcmp.download]]
     sha256 = "f12d6f79b833cd9c031a6d1cf6bb0a77db6eae2e59c0cc4b64e66c91e4fdd307"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "39936e1902f26a42be5dfc3b71bb19d0bd05e561"
@@ -38,7 +38,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "de4c867be49531fd0589549215bdd8ac5a8d9c50716998adc3760b9b9e0bdf8f"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-linux-gnu-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "5c5736468513aff9d6036472fa08f88799c4aee2"
@@ -49,7 +49,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "f5cad15bdd1dc016e749508a70631b6f42526323dfb2f728f91358f378be8426"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "c15e305d489dba3700fd8cd73e37376b6d506c98"
@@ -60,7 +60,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "3f74cacfde76ae978aba926080e0dbaebaeb0515a6f1d48b3043044751b4d52c"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-linux-gnu-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "750376099af08a7b3a7137bdc9d3baf7ff958bee"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "4804d5b17f59abe69a50f696d3cdbd87d9499c094e3c728c06eb3dd4d3265477"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-linux-musl-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "55106957b89681cc9f0353421ef4eac08c8bd983"
@@ -82,7 +82,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "26a492363cb048349c5607bc1b78522811548ffb5a556a46d2154ab1753e95c0"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-linux-musl-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "fdbf1bf7e319f05c80f195bde5da3aeccb916f34"
@@ -92,7 +92,7 @@ os = "freebsd"
 
     [[dtcmp.download]]
     sha256 = "13461a22c73646031cf6080480534cd00ab7ad484c017b8e693c4222c7920731"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "aarch64"
 git-tree-sha1 = "64996c72fb973ba65ce0f760565c35d504dabd21"
@@ -102,7 +102,17 @@ os = "freebsd"
 
     [[dtcmp.download]]
     sha256 = "035d8c271c2874d9e2e655ee86ed36972ddc41aeae1adaf7526069f81d9896ff"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[dtcmp]]
+arch = "aarch64"
+git-tree-sha1 = "ce345ef13c2a4a77388c496a6bd83ffd2b04f23c"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[dtcmp.download]]
+    sha256 = "86be5bd0857a4b83372073b585c2193ad0ba339c00888629651c2299637c5e84"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -114,7 +124,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "6b58d29b44ff8ffc69d88842e769e15b2be84a5b44b85f065e508806a2cd5520"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -126,7 +136,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "6367dd6c16019ae9579044c5cfa480b504f38856cbb5554f55586a48e906a3db"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -138,7 +148,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "b2ad09430fa2f3890eecc55246acf3462f82c34e4052338b8dd43db1f6a7eaca"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -150,7 +160,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "ebb6b5e9ac1c64711270e0124c7eb4374f96bf878ff0fcc13970a0c1092de18c"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -162,7 +172,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "5ded2e469bb78e588c2eca6126e78feae6f40fe36012c64f1371e467128d5373"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -174,7 +184,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "2f5c074fd3eb48183e63ba9128bbb43831a161339fdf6657e101745c56e4039d"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -186,7 +196,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "9c8643592bb8d6871f813143663a8f233de28821e694be048e8343e3a4dbca4b"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -198,7 +208,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "08880c4d49cb7aac2d84054376da8481e9a4573ea7a82abc1da1ead2a4cd1e19"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -210,7 +220,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "b2609d763b9f5969811b8c23145cbb5323898d2674af2fb831abfbb4bff46724"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "i686"
 git-tree-sha1 = "1fcc87370640694b93af9accb452f9aebece1d97"
@@ -221,7 +231,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "1181f3c5f132ae7dec5efbd24ad91604017fc8a591ee77d30d5c44cb0e4dbb74"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.i686-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.i686-linux-gnu-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "i686"
 git-tree-sha1 = "d7583f60f8987050c20bed8d75207e8d575facc3"
@@ -232,7 +242,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "f0436c6f40dad8ffe2f2e22b255928c4aef7eb262d37c778d58379f054f6521e"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "i686"
 git-tree-sha1 = "3b1ab7334c10cd8c8f406311e05f61564dbb1706"
@@ -243,7 +253,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "2b455940ca4b5fb2ab97bc9a19dd1ff50ed93e846ff3bae0621255ba49d4d627"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.i686-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.i686-linux-gnu-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "i686"
 git-tree-sha1 = "e97913b51e0ebe0fb7e3807f8680160ecfe2f274"
@@ -254,7 +264,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "89742f6fb495cb9ec85b1aa44b5eafe253aed9b053804c74fb59eacdd30742dd"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.i686-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.i686-linux-musl-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "i686"
 git-tree-sha1 = "975fe4bff8089d5872cdb025d6e43b2301bb4534"
@@ -265,7 +275,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "e1fdcf62d49a57c74bf29ce882bb6ecac9c04c7c8e002500cc0b1179ee936002"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.i686-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.i686-linux-musl-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "powerpc64le"
 git-tree-sha1 = "6ecaab5f26c9f86e5a8e930c08cc703d4385d91b"
@@ -276,7 +286,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "5c612930b517f38d497db787379f2f7f6b14098434930ac571189927696d918e"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "powerpc64le"
 git-tree-sha1 = "76886ae1d3e918d0f818e220be6eb0240fb178b2"
@@ -287,7 +297,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "a5b22ea2bc50cf3777949ea05dc054c36cf172dcc3fb0b42a2ccfaacacf29e77"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "powerpc64le"
 git-tree-sha1 = "648db47808ea411509c66da5f3373f8d16245842"
@@ -298,7 +308,40 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "36cfd6a363ba336537dd4a8d703d84e671264a700bfeb117f4be9c91b4cf262f"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[dtcmp]]
+arch = "riscv64"
+git-tree-sha1 = "42a7cdea1817b2593f97a420faaf0da14dffcce2"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[dtcmp.download]]
+    sha256 = "68baced50174b8271ef689789cd28773d3366dbd2a6704a04c606a3c31f0e9b8"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[dtcmp]]
+arch = "riscv64"
+git-tree-sha1 = "0dae5aeb81f4f85120ee1bbcb6bf97911d7280ef"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[dtcmp.download]]
+    sha256 = "579ded636228e65dd094f4830982e9b150b33b64256bc547f59f3941a784468b"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[dtcmp]]
+arch = "riscv64"
+git-tree-sha1 = "c53fc7fac87a60be2eaf348e8ae0b82df3c4f52b"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[dtcmp.download]]
+    sha256 = "3ab25641d294cc5fc96180aaf0acfeb6db98b28093e55c0c67998ec4a4e7c9ae"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.riscv64-linux-gnu-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "00ff54fe4ec26570252478c91f2019f370a080d0"
@@ -308,7 +351,7 @@ os = "macos"
 
     [[dtcmp.download]]
     sha256 = "e647ae3bc9f2f147b62b97484ba417aa563fe02a8f23aca2ee12da0f259467bf"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "a8614434ab7e36934e7d40833bcf1b0e46bc1d03"
@@ -318,7 +361,7 @@ os = "macos"
 
     [[dtcmp.download]]
     sha256 = "418ccc99750b29025e46bc19553d9b670d513f10ec4da06c26908e2275df448a"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "f1c3126c28000418c958d64521811fbb21de7b88"
@@ -328,7 +371,7 @@ os = "macos"
 
     [[dtcmp.download]]
     sha256 = "14cd521707ec7bd23113b00b2c71195d83cb38a67dd3c46fae5d5e4dc14e1961"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "ffd04fa2902dbf980c2636681f92e602dccceafb"
@@ -339,7 +382,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "69de5f3791e3f06de8310d2c80554a0b59f429701c8c2cd6b6bf7482aea65316"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "30ac4ddc25aed71a1923472968f742c7ab2e4601"
@@ -350,7 +393,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "11d7dda1ded80c02d2eb49d9f75e9bfebefcd4a38f13f8c00959af85b0f0285f"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "0f5aa75978efa4306db3246b7f0b4d14ddf007dd"
@@ -361,7 +404,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "99565349d5a779ec1f47109702aeb29acd765c5c37c9c1e57e8601f88b61b679"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-linux-gnu-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "ee33d9ba217017e4f48d5500c69accaeeeef329b"
@@ -372,7 +415,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "5f3bc8413af76341c7dd27b653c67c941cccf15db16dde978a37931a4db2963e"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-linux-musl-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "51391407be2f7cf9d815f0c0036e66010e5e1fb3"
@@ -383,7 +426,7 @@ os = "linux"
 
     [[dtcmp.download]]
     sha256 = "bbc3e2f4b1982d99dd5f926fb474d962575e58e0a1c15e9b11bcd04a8b9019a0"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-linux-musl-mpi+openmpi.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "82fb05463ddc114b42c85d0bed9a67045e18a305"
@@ -393,7 +436,7 @@ os = "freebsd"
 
     [[dtcmp.download]]
     sha256 = "ea2204c6e233af3195059151288ceccb2951a3b7bb4630f33b2c6090391a8c61"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "7210fba0bbd227c302f0b419e773ed91fc3d47ed"
@@ -403,7 +446,7 @@ os = "freebsd"
 
     [[dtcmp.download]]
     sha256 = "641be0a7555bde53e0dd215f835f1b82b26a35fce56fddfea511085a8f8c9787"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
 [[dtcmp]]
 arch = "x86_64"
 git-tree-sha1 = "390068ca40a6c9ea5516cd405c1d13426ee41620"
@@ -413,4 +456,4 @@ os = "freebsd"
 
     [[dtcmp.download]]
     sha256 = "5dc3dd6cd1f183f5855f39893166d246b6a2d63e78f33e47713d938d8190ee53"
-    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.5+0/dtcmp.v1.1.5.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/dtcmp_jll.jl/releases/download/dtcmp-v1.1.6+0/dtcmp.v1.1.6.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
